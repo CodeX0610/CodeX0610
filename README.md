@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student <br>🌱 Branch:  👨‍💻 AI and Data Science <br>🎓 Techno College of Engineering Agartala)<br>👀 I’m interested in coding<br>⚡ Fun fact: The amount of calories we burn while running is less then that we burn with coding 
+🔭 I’m currently a student <br>🌱 Branch:  👨‍💻 Computer Science and Engineering <br>🎓 Techno College of Engineering Agartala)<br>👀 I’m interested in coding<br>⚡ Fun fact: The amount of calories we burn while running is less then that we burn with coding 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyajit-mazumder-523b86308/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mistersatyajit@gmail.com) 
