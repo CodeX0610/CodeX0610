@@ -1,10 +1,3 @@
-<a href="https://github.com/CodeX0610/CodeX0610">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeX0610/CodeX0610/main/dark_mode.svg">
-    <img alt="Satyajit Mazumder's GitHub Profile README" src="https://raw.githubusercontent.com/CodeX0610/CodeX0610/main/light_mode.svg">
-  </picture>
-</a>
-
 # 💫 About Me:
 🔭 I’m currently a student <br>🌱 Branch:  👨‍💻 Computer Science and Engineering <br>🎓 Techno College of Engineering Agartala <br>👀 I’m interested in coding <br>⚡ Fun fact: The amount of calories we burn while running is less then that we burn with coding 
 
